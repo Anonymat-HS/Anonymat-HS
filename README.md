@@ -22,13 +22,11 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td>
-      
-> **Full Stack Developer** 🚀 passionate about **secure systems** and **beautiful code**.
-> 
-> Currently **mastering DevOps & Cybersecurity** while building awesome projects.
-> 
-> 🎓 Student • 💻 Junior Dev • 🔒 Security Enthusiast • ⚙️ DevOps Lover
-
+         > **Full Stack Developer** 🚀 passionate about **secure systems** and **beautiful code**.
+         > 
+         > Currently **mastering DevOps & Cybersecurity** while building awesome projects.
+         > 
+         > 🎓 Student • 💻 Junior Dev • 🔒 Security Enthusiast • ⚙️ DevOps Lover
     </td>
   </tr>
 </table>
@@ -239,26 +237,8 @@ RESTful API ██████████████████░░ 85%
 
 </div>
 
----
 
-## 🎓 Student Journey
 
-<div align="center">
-
-```
-📚 Education Path
-
-████████░░ HTML | CSS | JavaScript
-███████████░░░ React | Backend Basics  
-██████████████░░ Full Stack | DevOps Interest
-████████████████ Advanced Topics | Security Focus
-   ↓
-   🚀 Growing Every Day!
-```
-
-</div>
-
----
 
 ## 🌟 GitHub Showcase
 
@@ -278,7 +258,7 @@ RESTful API ██████████████████░░ 85%
 <a href="https://www.linkedin.com/in/hs-9a062a3a8/?locale=fr" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:herimihajasteevy@gmail.com" target="_blank">
+<a href="mailto:steevyherimihaja@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -347,7 +327,7 @@ RESTful API ██████████████████░░ 85%
 ### My Development Environment
 
 ```
-Operating System   : Linux / Windows
+Operating System  : Linux / Windows
 Editor            : Visual Studio Code
 Version Control   : Git & GitHub
 Package Manager   : npm / yarn / pip
@@ -423,7 +403,7 @@ Today's learner = Tomorrow's expert
   <a href="https://github.com/Anonymat-HS">
     <img src="https://img.shields.io/badge/Check%20Out%20My%20Work-00FF88?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="mailto:herimihajasteevy@gmail.com">
+  <a href="mailto:steevyherimihaja@gmail.com">
     <img src="https://img.shields.io/badge/Send%20Me%20a%20Message-FF0080?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
