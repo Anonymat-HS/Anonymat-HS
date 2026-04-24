@@ -423,7 +423,7 @@ Today's learner = Tomorrow's expert
   <a href="https://github.com/Anonymat-HS">
     <img src="https://img.shields.io/badge/Check%20Out%20My%20Work-00FF88?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:herimihajasteevy@gmail.com">
     <img src="https://img.shields.io/badge/Send%20Me%20a%20Message-FF0080?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -432,7 +432,7 @@ Today's learner = Tomorrow's expert
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anonymat-HS&color=00FF88&style=for-the-badge)
 
-**Last Updated:** 2024 | **Based in:** Madagascar 🇲🇬
+**Last Updated:** 2026 | **Based in:** Madagascar 🇲🇬
 
 </div>
 
