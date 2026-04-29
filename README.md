@@ -9,7 +9,7 @@
                                           
 ```
 
-# 🔥 RASOAMIARAMANANA Herimihaja Steevy
+# 🔥 Herimihaja Steevy
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=1500&color=00FF88&center=true&width=600&height=80&lines=Junior%20Full%20Stack%20Developer;DevOps%20%26%20Cybersecurity%20Enthusiast;Building%20Secure%20%26%20Scalable%20Apps;Always%20Learning%2C%20Always%20Growing" alt="Typing SVG"/>
