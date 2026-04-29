@@ -56,36 +56,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anonymat-HS&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF88&ring=FF0080&fire=FF0080&currStreakLabel=00FF88&sideNums=FFFFFF" alt="GitHub Streak" width="100%"/>
 
----
 
-## 🎯 Current Focus & Goals
-
-<table align="center" style="width: 100%;">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🚀 Currently Mastering</h3>
-      <ul align="left">
-        <li>🔧 Advanced React Patterns</li>
-        <li>⚙️ Docker & Kubernetes</li>
-        <li>🔐 Network Security</li>
-        <li>☁️ CI/CD Pipelines</li>
-        <li>📊 Database Optimization</li>
-      </ul>
-    </td>
-    <td align="center" width="50%">
-      <h3>📚 Learning This Year</h3>
-      <ul align="left">
-        <li>🤖 Machine Learning Basics</li>
-        <li>🔍 Penetration Testing</li>
-        <li>🏗️ System Architecture</li>
-        <li>🌐 Cloud Platforms (AWS)</li>
-        <li>📈 Performance Optimization</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 💻 Tech Stack & Skills
 
