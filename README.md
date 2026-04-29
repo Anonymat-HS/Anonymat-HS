@@ -22,30 +22,21 @@
 
 ---
 
-<br>
+<br><br>
 
 ## 🧠 SYSTEM PROFILE 
 
 <div align="center">
-
-<table style="background: rgba(255,255,255,0.03); backdrop-filter: blur(12px); border-radius:16px; border:1px solid rgba(255,255,255,0.08); padding:18px;">
-<tr>
-<td>
-
-> ENGINE STATUS: **ACTIVE DEVELOPMENT NODE**  
-> ARCHITECTURE: **SCALABLE SYSTEMS DESIGN**  
-> FOCUS: **SECURITY • DEVOPS • PRODUCT ENGINEERING**  
-> STRATEGY: **BUILD LIKE A STARTUP, THINK LIKE A FOUNDER**
-
-</td>
-</tr>
-</table>
-
+┌────────────────────────────────────────────┐
+│ ENGINE STATUS: ACTIVE DEVELOPMENT NODE │
+│ ARCHITECTURE: SCALABLE SYSTEM DESIGN │
+│ FOCUS: SECURITY • DEVOPS • PRODUCT ENGINE │
+│ STRATEGY: STARTUP MINDSET │
+└────────────────────────────────────────────┘
 </div>
-
 ---
 
-<br>
+<br><br>
 
 ## 📡 LIVE ENGINEERING SIGNALS
 
@@ -60,7 +51,7 @@
 
 ---
 
-<br>
+<br><br>
 
 ## ⚙️ STACK MATRIX (COLOR + ICON SYSTEM)
 
@@ -100,7 +91,7 @@
 </div>
 
 ---
-
+<br><br>
 
 ## 🧬 SYSTEM ANIMATED PHILOSOPHY
 
@@ -113,7 +104,7 @@
 
 ---
 
-<br>
+<br><br>
 
 ## 📊 ENGINEERING METRICS (INVESTOR SIGNAL)
 
@@ -125,15 +116,16 @@
 
 </div>
 
+
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anonymat-HS&theme=tokyo-night&hide_border=true&bg_color=>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymat-HS&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF88&line=7C3AED&point=FFFFFF" />
 
 </div>
 
 ---
 
-<br>
+<br><br>
 
 ## 🌐 NETWORK ACCESS (CONNECT)
 
@@ -155,7 +147,7 @@
 
 ---
 
-<br>
+<br><br>
 
 ## 🟢 FOOTER SYSTEM STATUS
 
