@@ -66,13 +66,17 @@
 <div align="center">
 
 ### 🟩 FRONTEND CORE
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 
 ---
 
 ### 🟥 BACKEND SYSTEMS
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=node.js&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F97316?style=for-the-badge&logo=python&logoColor=white)
@@ -96,35 +100,6 @@
 
 ---
 
-<br>
-
-## 🚀 PROJECT ENGINE (INVESTOR VIEW)
-
-<pre style="background:#0D1117; color:#00FF88; padding:15px; border-radius:12px;">
-[PROJECT::E-COMMERCE_ENGINE]
-STATUS: SCALABLE
-STACK: React | Node | MongoDB
-VALUE: HIGH
-
-[PROJECT::AUTH_SYSTEM]
-STATUS: SECURE CORE IMPLEMENTED
-STACK: Express | PostgreSQL | JWT
-VALUE: CRITICAL
-
-[PROJECT::DATA_DASHBOARD]
-STATUS: REALTIME PROCESSING
-STACK: React | Node | Visualization Layer
-VALUE: ANALYTICS READY
-
-[PROJECT::PWA_TASK_MANAGER]
-STATUS: OFFLINE-FIRST ARCHITECTURE
-STACK: React | Firebase
-VALUE: PRODUCTIVITY SYSTEM
-</pre>
-
----
-
-<br>
 
 ## 🧬 SYSTEM ANIMATED PHILOSOPHY
 
