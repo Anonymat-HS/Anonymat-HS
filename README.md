@@ -1,16 +1,21 @@
 <div align="center">
 
-<!-- HERO GLASS HEADER -->
+<!-- GLITCH / TERMINAL HERO -->
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=28&duration=2800&pause=1200&color=00FF88&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;DevOps+%26+Cybersecurity+Focus;Building+Scalable+%26+Secure+Systems;Startup-Minded+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2200&pause=800&color=00FF88&center=true&vCenter=true&width=900&lines=>+Initializing+system...;>+Loading+developer+profile...;>+Building+secure+scalable+architecture...;>+Status:+ONLINE+%E2%9C%94" />
 
-<br><br>
+<br>
 
-# Herimihaja Steevy
+<pre style="color:#00FF88; background:#0D1117; padding:15px; border-radius:12px;">
+┌──────────────────────────────────────────┐
+│  SYSTEM: ACTIVE                         │
+│  ROLE: FULL STACK ENGINEER              │
+│  MODE: SECURE BUILD / SCALING           │
+│  SECURITY: ENABLED                      │
+└──────────────────────────────────────────┘
+</pre>
 
-<img src="https://img.shields.io/badge/Status-Builder-00FF88?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Focus-VC--Ready_Engineer-7C3AED?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Security-Minded-0EA5E9?style=for-the-badge&labelColor=0D1117"/>
+# HERIMIHAJA STEEVY
 
 </div>
 
@@ -18,19 +23,18 @@
 
 <br>
 
-## 🧊 ABOUT (Glass Card Style)
+## 🧠 SYSTEM PROFILE (HACKER + INVESTOR VIEW)
 
 <div align="center">
 
-<table style="border-radius: 16px; background: rgba(255,255,255,0.03); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.08); padding: 20px;">
+<table style="background: rgba(255,255,255,0.03); backdrop-filter: blur(12px); border-radius:16px; border:1px solid rgba(255,255,255,0.08); padding:18px;">
 <tr>
 <td>
 
-> Full Stack Developer focused on **scalable architecture, secure systems, and high-performance applications**.  
->  
-> Currently evolving toward **DevOps + Cybersecurity + startup-grade engineering standards**.  
->  
-> Building systems with a **product mindset, not just code execution**.
+> ENGINE STATUS: **ACTIVE DEVELOPMENT NODE**  
+> ARCHITECTURE: **SCALABLE SYSTEMS DESIGN**  
+> FOCUS: **SECURITY • DEVOPS • PRODUCT ENGINEERING**  
+> STRATEGY: **BUILD LIKE A STARTUP, THINK LIKE A FOUNDER**
 
 </td>
 </tr>
@@ -42,7 +46,100 @@
 
 <br>
 
-## 📊 ENGINEERING SIGNAL (VC STYLE METRICS)
+## 📡 LIVE ENGINEERING SIGNALS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=server&logoColor=black"/>
+<img src="https://img.shields.io/badge/MODE-INVESTOR_READINESS-7C3AED?style=for-the-badge&logo=trending-up&logoColor=white"/>
+<img src="https://img.shields.io/badge/SECURITY-ENABLED-0EA5E9?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/BUILD-SCALABLE-F97316?style=for-the-badge&logo=code&logoColor=white"/>
+
+</div>
+
+---
+
+<br>
+
+## ⚙️ STACK MATRIX (COLOR + ICON SYSTEM)
+
+<div align="center">
+
+### 🟩 FRONTEND CORE
+![React](https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🟥 BACKEND SYSTEMS
+![Node.js](https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=node.js&logoColor=black)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F97316?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🟪 DEVOPS / SECURITY LAYER
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FACC15?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-ef4444?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-10B981?style=for-the-badge&logo=gnu-bash&logoColor=black)
+
+---
+
+### 🟦 DATA LAYER
+![MongoDB](https://img.shields.io/badge/MongoDB-22C55E?style=for-the-badge&logo=mongodb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0284C7?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+<br>
+
+## 🚀 PROJECT ENGINE (INVESTOR VIEW)
+
+<pre style="background:#0D1117; color:#00FF88; padding:15px; border-radius:12px;">
+[PROJECT::E-COMMERCE_ENGINE]
+STATUS: SCALABLE
+STACK: React | Node | MongoDB
+VALUE: HIGH
+
+[PROJECT::AUTH_SYSTEM]
+STATUS: SECURE CORE IMPLEMENTED
+STACK: Express | PostgreSQL | JWT
+VALUE: CRITICAL
+
+[PROJECT::DATA_DASHBOARD]
+STATUS: REALTIME PROCESSING
+STACK: React | Node | Visualization Layer
+VALUE: ANALYTICS READY
+
+[PROJECT::PWA_TASK_MANAGER]
+STATUS: OFFLINE-FIRST ARCHITECTURE
+STACK: React | Firebase
+VALUE: PRODUCTIVITY SYSTEM
+</pre>
+
+---
+
+<br>
+
+## 🧬 SYSTEM ANIMATED PHILOSOPHY
+
+<div align="center">
+
+> ▓▓▓ BUILD → TEST → SCALE → SECURE → OPTIMIZE ▓▓▓  
+> ▓▓▓ THINK LIKE ENGINEER • EXECUTE LIKE FOUNDER ▓▓▓
+
+</div>
+
+---
+
+<br>
+
+## 📊 ENGINEERING METRICS (INVESTOR SIGNAL)
 
 <div align="center">
 
@@ -56,106 +153,7 @@
 
 <br>
 
-## ⚙️ TECH STACK (Startup Engineering Layer)
-
-<div align="center">
-
-### FRONTEND
-React • Tailwind • JavaScript • UI Systems • Responsive Design
-
-<br>
-
-### BACKEND
-Node.js • Express • Python • REST APIs • System Design
-
-<br>
-
-### DEVOPS / SECURITY
-Docker • Linux • Git • Bash • Security Fundamentals • Networking
-
-<br>
-
-### DATABASES
-PostgreSQL • MongoDB • MySQL • Data Modeling
-
-</div>
-
----
-
-<br>
-
-## 🚀 BUILD TRACK (PRODUCT THINKING)
-
-<div align="center">
-
-### 🧠 E-Commerce System
-Scalable full-stack architecture with modern UI
-
-`React` · `Node.js` · `MongoDB` · `Tailwind`
-
----
-
-### 🔐 Authentication Engine
-Secure JWT-based auth system with layered protection
-
-`Express` · `PostgreSQL` · `Security-first design`
-
----
-
-### 📊 Data Intelligence Dashboard
-Real-time analytics & visualization platform
-
-`React` · `Node.js` · `Charts`
-
----
-
-### 🚀 Productivity PWA
-Offline-first task management system
-
-`React` · `Firebase` · `PWA Architecture`
-
-</div>
-
----
-
-<br>
-
-## 🧠 ENGINEERING PHILOSOPHY
-
-<div align="center">
-
-> “I don’t just build applications — I design systems that scale under pressure.”
-
-<br>
-
-> “Clean architecture > quick hacks. Always.”
-
-<br>
-
-> “Security is not a feature. It is the foundation.”
-
-</div>
-
----
-
-<br>
-
-## 📡 SIGNALS (STARTUP READY INDICATORS)
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Product_Mindset-Active-00FF88?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/System_Design-Learning-7C3AED?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/DevOps_Growth-Progressing-0EA5E9?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Security_Focus-Core_Principle-F97316?style=for-the-badge&labelColor=0D1117"/>
-
-</div>
-
----
-
-<br>
-
-## 🌐 CONNECT (VC NETWORK READY)
+## 🌐 NETWORK ACCESS (CONNECT)
 
 <div align="center">
 
@@ -177,7 +175,7 @@ Offline-first task management system
 
 <br>
 
-## 📈 FOOTPRINT
+## 🟢 FOOTER SYSTEM STATUS
 
 <div align="center">
 
@@ -185,6 +183,6 @@ Offline-first task management system
 
 <br><br>
 
-**2026 • Built in Madagascar 🇲🇬 • Engineering for scale**
+**SYSTEM ONLINE • 2026 • MADAGASCAR NODE 🇲🇬**
 
 </div>
