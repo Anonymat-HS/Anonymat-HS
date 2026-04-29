@@ -253,88 +253,9 @@ RESTful API ██████████████████░░ 85%
 
 </div>
 
----
 
-## 🔥 What I'm Working On
 
-<table align="center">
-  <tr>
-    <td>
 
-**Current Projects**
-- 🏗️ Building a full-stack web app
-- 🔐 Learning Docker & Security
-- 📚 Contributing to open source
-- 🤖 Exploring DevOps tools
-
-    </td>
-    <td>
-
-**Next Milestones**
-- ☁️ Deploy on AWS/GCP
-- 🧪 Master unit testing
-- 🔍 Penetration testing basics
-- 🎓 Get relevant certifications
-
-    </td>
-    <td>
-
-**Long Term Goals**
-- 💼 Become a Senior Dev
-- 🏢 Work in DevOps/SecOps
-- 🌍 Build impactful projects
-- 🚀 Lead a team
-
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚙️ Tech Stack Breakdown
-
-<div align="center">
-
-### My Development Environment
-
-```
-Operating System  : Linux / Windows
-Editor            : Visual Studio Code
-Version Control   : Git & GitHub
-Package Manager   : npm / yarn / pip
-Database Tool     : MongoDB Compass / pgAdmin
-API Testing       : Postman
-Design Tool       : Figma
-Terminal          : PowerShell / Bash
-```
-
-### Development Workflow
-
-```
-📋 Plan → 💻 Code → ✅ Test → 🔍 Review → 🚀 Deploy
-```
-
-</div>
-
----
-
-## 📈 Growth Chart
-
-<div align="center">
-
-```
-Skills Progress Over Time:
-
-Frontend   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 95%
-Backend    ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 65%
-DevOps     ▓▓▓▓▓▓▓░░░░░░░░░░░░░ 40%
-Security   ▓▓▓▓▓▓░░░░░░░░░░░░░░ 35%
-Databases  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 45%
-```
-
-</div>
-
----
 
 ## 🎯 Open To
 
@@ -347,22 +268,7 @@ Databases  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 45%
 
 </div>
 
----
 
-## 💪 Motivation
-
-<div align="center">
-
-```
-Every expert was once a beginner.
-Keep coding. Keep learning. Keep growing. 🚀
-
-Today's learner = Tomorrow's expert
-```
-
-</div>
-
----
 
 ## 📞 Let's Connect!
 
