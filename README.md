@@ -6,14 +6,15 @@
 
 <br>
 
-<pre style="color:#00FF88; background:#0D1117; padding:15px; border-radius:12px;">
-┌──────────────────────────────────────────┐
-│  SYSTEM: ACTIVE                         │
-│  ROLE: FULL STACK ENGINEER              │
-│  MODE: SECURE BUILD / SCALING           │
-│  SECURITY: ENABLED                      │
-└──────────────────────────────────────────┘
-</pre>
+
+```
+   _____ _   _____ _   __  _____________ __
+  / ___// | / / __ \ | / / / ____/ ___// /
+  \__ \/  |/ / / / / |/ / / __/  \__ \/ /
+ ___/ / /|  / /_/ /|  /  / /___ ___/ / /
+/____/_/ |_/\____/ |_/   /_____//____/_/
+
+```
 
 # HERIMIHAJA STEEVY
 
@@ -23,7 +24,7 @@
 
 <br>
 
-## 🧠 SYSTEM PROFILE (HACKER + INVESTOR VIEW)
+## 🧠 SYSTEM PROFILE 
 
 <div align="center">
 
@@ -121,6 +122,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Anonymat-HS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anonymat-HS&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
+
+</div>
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anonymat-HS&theme=tokyo-night&hide_border=true&bg_color=>
 
 </div>
 
