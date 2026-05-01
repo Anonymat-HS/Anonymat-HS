@@ -24,15 +24,15 @@
 
 <br><br>
 
-## 🧠 SYSTEM PROFILE 
-
 <div align="center">
-┌────────────────────────────────────────────┐
-│ ENGINE STATUS: ACTIVE DEVELOPMENT NODE │
-│ ARCHITECTURE: SCALABLE SYSTEM DESIGN │
-│ FOCUS: SECURITY • DEVOPS • PRODUCT ENGINE │
-│ STRATEGY: STARTUP MINDSET │
-└────────────────────────────────────────────┘
+
+### 🧠 SYSTEM PROFILE
+
+ENGINE : ACTIVE NODE
+ARCHITECTURE : SCALABLE DESIGN
+FOCUS : SECURITY • DEVOPS • PRODUCT
+STRATEGY : BUILD → SCALE → DOMINATE
+
 </div>
 ---
 
@@ -93,12 +93,17 @@
 ---
 <br><br>
 
-## 🧬 SYSTEM ANIMATED PHILOSOPHY
-
 <div align="center">
 
-> ▓▓▓ BUILD → TEST → SCALE → SECURE → OPTIMIZE ▓▓▓  
-> ▓▓▓ THINK LIKE ENGINEER • EXECUTE LIKE FOUNDER ▓▓▓
+### 🧬 SYSTEM LOGIC
+
+
+[ THINK ] → [ BUILD ] → [ BREAK ] → [ FIX ] → [ SCALE ]
+↘︎ ↗︎
+[ LEARN ] ← [ FAIL FAST ]
+
+> Systems don’t scale by luck.  
+> They scale by design.
 
 </div>
 
@@ -153,10 +158,22 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Anonymat-HS&color=00FF88&style=flat-square"/>
+---
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=Anonymat-HS&color=00FF88&style=for-the-badge"/>
 
-**SYSTEM ONLINE • 2026 • MADAGASCAR NODE 🇲🇬**
+<br>
+
+
+
+SYSTEM STATUS : ONLINE
+NODE : MADAGASCAR 🇲🇬
+YEAR : 2026
+SIGNATURE : HERIMIHAJA
+
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:0D1117&height=100&section=footer"/>
 
 </div>
