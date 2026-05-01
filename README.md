@@ -16,7 +16,7 @@
 
 ```
 
-# HERIMIHAJA STEEVY
+# Herimihaja Steevy
 
 </div>
 
