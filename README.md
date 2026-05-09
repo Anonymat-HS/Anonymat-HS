@@ -53,7 +53,7 @@ STRATEGY : BUILD → SCALE → DOMINATE
 
 <br><br>
 
-## ⚙️ STACK MATRIX (COLOR + ICON SYSTEM)
+## ⚙️ STACK MATRIX 
 
 <div align="center">
 
@@ -86,7 +86,7 @@ STRATEGY : BUILD → SCALE → DOMINATE
 ### 🟦 DATA LAYER
 ![MongoDB](https://img.shields.io/badge/MongoDB-22C55E?style=for-the-badge&logo=mongodb&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0284C7?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 </div>
 
@@ -111,7 +111,7 @@ STRATEGY : BUILD → SCALE → DOMINATE
 
 <br><br>
 
-## 📊 ENGINEERING METRICS (INVESTOR SIGNAL)
+## 📊 ENGINEERING METRICS 
 
 <div align="center">
 
@@ -132,7 +132,7 @@ STRATEGY : BUILD → SCALE → DOMINATE
 
 <br><br>
 
-## 🌐 NETWORK ACCESS (CONNECT)
+## 🌐 NETWORK ACCESS 
 
 <div align="center">
 
@@ -154,7 +154,7 @@ STRATEGY : BUILD → SCALE → DOMINATE
 
 <br><br>
 
-## 🟢 FOOTER SYSTEM STATUS
+
 
 <div align="center">
 
