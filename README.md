@@ -167,9 +167,12 @@ STRATEGY : BUILD → SCALE → DOMINATE
 
 
 
-SYSTEM STATUS : ONLINE
-NODE : MADAGASCAR 🇲🇬
+SYSTEM STATUS : Online
+<br>
+NODE : Madagascar 🇲🇬
+<br>
 YEAR : 2026
+<br>
 SIGNATURE : Herimihaja
 
 
