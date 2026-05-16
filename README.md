@@ -34,7 +34,7 @@ FOCUS : SECURITY • DEVOPS • PRODUCT
 STRATEGY : BUILD → SCALE → DOMINATE
 
 </div>
----
+
 
 <br><br>
 
@@ -117,7 +117,6 @@ STRATEGY : BUILD → SCALE → DOMINATE
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anonymat-HS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Anonymat-HS&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
 
 </div>
 
@@ -169,7 +168,7 @@ STRATEGY : BUILD → SCALE → DOMINATE
 SYSTEM STATUS : ONLINE
 NODE : MADAGASCAR 🇲🇬
 YEAR : 2026
-SIGNATURE : HERIMIHAJA
+SIGNATURE : Herimihaja
 
 
 <br>
