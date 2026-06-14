@@ -126,7 +126,7 @@
 
 <br><br>
 
-### 📫 Me contacter
+### 📫 Contact me
 
 📧 [steevyherimihaja@gmail.com](mailto:steevyherimihaja@gmail.com) &nbsp;|&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/hs-9a062a3a8) &nbsp;|&nbsp;
