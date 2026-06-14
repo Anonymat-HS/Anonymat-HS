@@ -84,9 +84,8 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
     <td align="center" width="96"> 
@@ -135,10 +134,7 @@
 
 <br><br>
 
-<!-- Badges -->
-<a href="https://github.com/Anonymat-HS">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnonymat-HS&count_bg=%2358A6FF&title_bg=%230D1117&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" width="200" alt="Profile Views">
-</a>
+
 
 <br>
 
