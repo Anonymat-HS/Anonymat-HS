@@ -6,17 +6,24 @@
 
 <a href="https://github.com/Anonymat-HS">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Interested+in+AI;Always+Learning+%F0%9F%9A%80">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0D1117&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Junior+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast;Building+StudyForge+%F0%9F%9A%80;Always+Learning">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0D1117&center=true&vCenter=true&width=500&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast;Building+StudyForge+%F0%9F%9A%80;Always+Learning">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast;Building+StudyForge+%F0%9F%9A%80;Always+Learning" alt="Typing SVG">
   </picture>
 </a>
 
 <br>
 
-🎓 IT Student (L1, engineering school) — still learning, still building
+🎓 IT Student (L1, HEI — engineering school) — still learning, still building
 <br>
-🔐 Into cybersecurity & Linux &nbsp;|&nbsp; 💻 Building stuff for fun 
+🔐 Into cybersecurity & Linux &nbsp;|&nbsp; 💻 Building StudyForge, an AI-powered study platform
+<br>
+🎯 Preparing for École 42's *piscine* (Sept–Nov 2026)
+
+<br>
+
+<img src="https://img.shields.io/badge/status-actively%20learning-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/focus-networking%20%7C%20SQL%20%7C%20cybersecurity-58A6FF?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
@@ -48,11 +55,44 @@
 
 <br><br>
 
-# 💻 My technologies and favorite tools
+## 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 StudyForge</h3>
+      <p>An AI-powered study platform built with React, TypeScript, and Supabase. Uses Groq's LLM API to help students study smarter.</p>
+      <img src="https://img.shields.io/badge/React-58A6FF?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Supabase-58A6FF?style=flat-square&logo=supabase&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/TailwindCSS-58A6FF?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Cybersecurity Homelab</h3>
+      <p>A full pentesting lab built on QEMU/KVM with Kali Linux and Metasploitable 2 on an isolated network, documented with notes and exploit scripts.</p>
+      <img src="https://img.shields.io/badge/Kali%20Linux-58A6FF?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/QEMU%2FKVM-58A6FF?style=flat-square&logo=qemu&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Networking-58A6FF?style=flat-square&labelColor=0D1117" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🌱 Currently Learning
+
+<img src="https://img.shields.io/badge/SQL-CS50-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Networking-DHCP%20%7C%20DNS%20%7C%20Routing-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Java-OOP%20%7C%20Design%20Patterns-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Express.js-Backend-58A6FF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+## 💻 My Technologies & Favorite Tools
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center"  width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
@@ -60,7 +100,7 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
@@ -73,9 +113,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
       <br>Python
     </td>
     <td align="center" width="96">
@@ -88,7 +126,7 @@
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -100,13 +138,15 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
   </tr>
-
 </table>
+</div>
 
-
-
-<br><br>
+<br>
 
 <!-- Activity Graph -->
 <a href="https://github.com/Anonymat-HS">
@@ -119,22 +159,11 @@
 
 <br><br>
 
-
-<br>
-
-
-
-<br><br>
-
 ### 📫 Contact me
 
 📧 [steevyherimihaja@gmail.com](mailto:steevyherimihaja@gmail.com) &nbsp;|&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/hs-9a062a3a8) &nbsp;|&nbsp;
 🐙 [GitHub](https://github.com/Anonymat-HS)
-
-<br><br>
-
-
 
 <br>
 
