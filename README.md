@@ -8,7 +8,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast;Building+StudyForge+%F0%9F%9A%80;Always+Learning">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0D1117&center=true&vCenter=true&width=500&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast;Building+StudyForge+%F0%9F%9A%80;Always+Learning">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast;Building+StudyForge+%F0%9F%9A%80;Always+Learning" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast;Always+Learning" alt="Typing SVG">
   </picture>
 </a>
 
@@ -21,15 +21,12 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/status-actively%20learning-58A6FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/focus-networking%20%7C%20SQL%20%7C%20cybersecurity-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Actively%20learning-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20cybersecurity-58A6FF?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
-<!-- Stat Cards -->
-<!-- Ces cartes viennent du service gratuit Vercel de github-readme-stats. -->
-<!-- Ce service est parfois rate-limited (voir github.com/anuraghazra/github-readme-stats/issues/4748). -->
-<!-- Si elles ne s'affichent pas, patiente quelques minutes puis recharge la page (Ctrl+Shift+R). -->
+
 <a href="https://github.com/Anonymat-HS">
   <img src="https://github-readme-stats.vercel.app/api?username=Anonymat-HS&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&custom_title=GitHub+Analytics&cache_seconds=86400" height="180" alt="GitHub Stats">
 </a>
