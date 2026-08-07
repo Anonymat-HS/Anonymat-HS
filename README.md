@@ -45,36 +45,7 @@
 
 <br><br>
 
-## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 StudyForge</h3>
-      <p>An AI-powered study platform built with React, TypeScript, and Supabase. Uses Groq's LLM API to help students study smarter.</p>
-      <img src="https://img.shields.io/badge/React-58A6FF?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/Supabase-58A6FF?style=flat-square&logo=supabase&logoColor=white&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/TailwindCSS-58A6FF?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 Cybersecurity Homelab</h3>
-      <p>A full pentesting lab built on QEMU/KVM with Kali Linux and Metasploitable 2 on an isolated network, documented with notes and exploit scripts.</p>
-      <img src="https://img.shields.io/badge/Kali%20Linux-58A6FF?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/QEMU%2FKVM-58A6FF?style=flat-square&logo=qemu&logoColor=white&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/Networking-58A6FF?style=flat-square&labelColor=0D1117" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 🌱 Currently Learning
-
-<img src="https://img.shields.io/badge/SQL-CS50-58A6FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Networking-DHCP%20%7C%20DNS%20%7C%20Routing-58A6FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Java-OOP%20%7C%20Design%20Patterns-58A6FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Express.js-Backend-58A6FF?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
