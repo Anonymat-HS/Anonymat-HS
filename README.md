@@ -16,7 +16,7 @@
 
 🎓 IT Student (L1, HEI — engineering school) — still learning, still building
 <br>
-🔐 Into cybersecurity & Linux &nbsp;|&nbsp;
+🔐 Into cybersecurity & Linux 
 
 
 <br>
@@ -27,29 +27,20 @@
 <br><br>
 
 <!-- Stat Cards -->
+<!-- Ces cartes viennent du service gratuit Vercel de github-readme-stats. -->
+<!-- Ce service est parfois rate-limited (voir github.com/anuraghazra/github-readme-stats/issues/4748). -->
+<!-- Si elles ne s'affichent pas, patiente quelques minutes puis recharge la page (Ctrl+Shift+R). -->
 <a href="https://github.com/Anonymat-HS">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Anonymat-HS&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&custom_title=%F0%9F%93%8A+GitHub+Analytics">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Anonymat-HS&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0D1117&text_color=0D1117&icon_color=0D1117&include_all_commits=true&custom_title=%F0%9F%93%8A+GitHub+Analytics">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anonymat-HS&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&custom_title=%F0%9F%93%8A+GitHub+Analytics" height="180" alt="GitHub Stats">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anonymat-HS&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&custom_title=GitHub+Analytics&cache_seconds=86400" height="180" alt="GitHub Stats">
 </a>
 <a href="https://github.com/Anonymat-HS">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Anonymat-HS&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Anonymat-HS&hide_border=true&background=FFFFFF&stroke=0D1117&ring=0D1117&fire=0D1117&currStreakNum=0D1117&sideNums=0D1117&currStreakLabel=0D1117&sideLabels=0D1117&dates=586069">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anonymat-HS&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="180" alt="GitHub Streak">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anonymat-HS&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="180" alt="GitHub Streak">
 </a>
 
 <br><br>
 
 <a href="https://github.com/Anonymat-HS">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymat-HS&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&size_weight=0&count_weight=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymat-HS&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0D1117&text_color=0D1117&langs_count=8&size_weight=0&count_weight=1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymat-HS&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&size_weight=0&count_weight=1" width="400" alt="Top Languages">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymat-HS&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&size_weight=0&count_weight=1&cache_seconds=86400" width="400" alt="Top Languages">
 </a>
 
 <br><br>
@@ -149,11 +140,7 @@
 
 <!-- Activity Graph -->
 <a href="https://github.com/Anonymat-HS">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Anonymat-HS&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=true&radius=8&custom_title=Contribution%20Graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Anonymat-HS&bg_color=FFFFFF&color=0D1117&line=0D1117&point=0D1117&area=true&area_color=E6EDF3&hide_border=true&radius=8&custom_title=Contribution%20Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymat-HS&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymat-HS&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=true&radius=8&custom_title=Contribution+Graph" width="100%" alt="Contribution Graph">
 </a>
 
 <br><br>
