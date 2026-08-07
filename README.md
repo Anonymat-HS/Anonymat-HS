@@ -16,9 +16,8 @@
 
 🎓 IT Student (L1, HEI — engineering school) — still learning, still building
 <br>
-🔐 Into cybersecurity & Linux &nbsp;|&nbsp; 💻 Building StudyForge, an AI-powered study platform
-<br>
-🎯 Preparing for École 42's *piscine* (Sept–Nov 2026)
+🔐 Into cybersecurity & Linux &nbsp;|&nbsp;
+
 
 <br>
 
