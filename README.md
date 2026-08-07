@@ -2,22 +2,24 @@
 <!-- Animated Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:58a6ff,100:0d1117&height=220&section=header&text=Herimihaja%20%F0%9F%91%8B&fontSize=55&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=55&descSize=18" width="100%" />
 
-<!-- Dynamic Typing SVG with Fallback -->
+<!-- Dynamic Typing SVG -->
 <a href="https://github.com/Anonymat-HS">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+StudyForge+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer;Always+Learning+%F0%9F%93%9A;Open+Source+Contributor">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=600&color=0D1117&center=true&vCenter=true&width=550&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+StudyForge+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer;Always+Learning+%F0%9F%93%9A;Open+Source+Contributor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast;Always+Learning" alt="Typing SVG" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Junior+Developer;Cybersecurity+Enthusiast+%F0%9F%94%90;AI+%26+Machine+Learning+Explorer;Always+Learning+%F0%9F%93%9A;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
+<br>
 
-<!-- Profile Badges -->
-<img src="https://img.shields.io/badge/HEI-IT%20Engineering%20L1-58A6FF?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Status-Actively%20Learning-58A6FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity%20%7C%20Linux-58A6FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Location-Madagascar%20%F0%9F%87%B2%F0%9F%87%AC-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<!-- Profile Badges — regroupés par thème -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HEI-IT%20Engineering%20L1-58A6FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Location-Madagascar%20%F0%9F%87%B2%F0%9F%87%AC-58A6FF?style=for-the-badge&labelColor=0D1117" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-1f6feb?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity%20%7C%20Linux-1f6feb?style=for-the-badge&labelColor=0D1117" />
+</p>
 
+<br>
 
 <!-- About Me Card -->
 <table align="center" width="90%">
@@ -27,15 +29,16 @@
       <p align="center">
         <b>IT Student (L1, HEI — Engineering School)</b><br>
         Passionate about building secure, scalable applications<br>
-        🔐 Cybersecurity & Linux enthusiast | 🤖 AI Explorer<br>
-        Currently crafting <b>StudyForge</b> — an AI-powered learning platform
+        🔐 Cybersecurity & Linux enthusiast | 🤖 AI Explorer
       </p>
     </td>
   </tr>
 </table>
 
-📊 GitHub Analytics
-<!-- Stats Grid with Fixed Layout -->
+<br>
+
+## 📊 GitHub Analytics
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
@@ -64,8 +67,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymat-HS&bg_color=0D1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true&radius=10&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 </a>
 
-🛠️ Tech Stack & Tools
-<!-- Skills Grid -->
+<br><br>
+
+## 🛠️ Tech Stack & Tools
+
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -129,23 +134,25 @@
   </tr>
 </table>
 
-🚀 Featured Projects
+<br>
+
+## 🚀 Featured Projects
+
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Anonymat-HS/StudyForge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anonymat-HS&repo=StudyForge&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&cache_seconds=86400" width="100%" alt="StudyForge" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top" align="center">
       <a href="https://github.com/Anonymat-HS">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anonymat-HS&repo=Anonymat-HS&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&cache_seconds=86400" width="100%" alt="Portfolio" />
       </a>
+      <img src="https://img.shields.io/badge/Status-Coming%20Soon-F78166?style=for-the-badge&labelColor=0D1117" />
     </td>
   </tr>
 </table>
 
-📫 Let's Connect
+<br>
+
+## 📫 Let's Connect
+
 <p align="center">
   <a href="mailto:steevyherimihaja@gmail.com">
     <img src="https://img.shields.io/badge/Email-steevyherimihaja%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
