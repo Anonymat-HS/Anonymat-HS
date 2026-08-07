@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:58a6ff,100:0d1117&height=220&section=header&text=Herimihaja%20%F0%9F%91%8B&fontSize=55&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:58a6ff,100:0d1117&height=200&section=header&text=Herimihaja%20%F0%9F%91%8B&fontSize=55&fontColor=58a6ff&fontAlignY=40&animation=fadeIn" width="100%" />
 
 <!-- Dynamic Typing SVG -->
 <a href="https://github.com/Anonymat-HS">
@@ -136,19 +136,6 @@
 
 <br>
 
-## 🚀 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="100%" valign="top" align="center">
-      <a href="https://github.com/Anonymat-HS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anonymat-HS&repo=Anonymat-HS&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&cache_seconds=86400" width="100%" alt="Portfolio" />
-      </a>
-      <img src="https://img.shields.io/badge/Status-Coming%20Soon-F78166?style=for-the-badge&labelColor=0D1117" />
-    </td>
-  </tr>
-</table>
-
 <br>
 
 ## 📫 Let's Connect
@@ -173,6 +160,18 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/Anonymat-HS?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github" alt="Followers" />
 </p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=600" width="60%" />
+
+<br>
+
+<i>"Every expert was once a beginner who refused to give up."</i>
+
+<sub>✨ Coding today for the developer I'll be tomorrow ✨</sub>
+
+<br><br>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&text=Crafted%20with%20%F0%9F%92%99%20%26%20Code&fontSize=18&fontColor=C9D1D9&fontAlignY=75" width="100%" />
